@@ -6,7 +6,7 @@ Before we can build a simple catalog/ue of calls and other signals commonly made
 
 **Some preliminary open sources of Bigg's audio recordings:**
 
-1. John Ford's contribution to Orcasound's open data archives:[Thomsen examples of T01, T07, and T08](https://orcasound.net/data/raw/transients-Ford/96-08-25/) from 1996 (Aug 25, Numas Island, BC; individuals T14 and T15)
+1. John Ford's contribution to Orcasound's open data archives:[Thomsen examples of T01, T03, T07, and T08 call types](https://orcasound.net/data/raw/transients-Ford/96-08-25/) from 1996 (Aug 25, Numas Island, BC; individuals T14 and T15). [Scott's favorite T07 by far!](https://orcasound.net/data/raw/transients-Ford/96-08-25/T08-96-08-25a-02-28.wav)
 2. [Orcasound's archive of Bigg's recordings](https://orcasound.net/data/product/biophony/Biggs/) (Dabob Bay contribution from US Navy; bouts from Orcasound hydrophones)
 3. Scott's [descriptive names for calls clipped from the Dabob Bay recording](https://orcasound.net/data/product/biophony/Biggs/dabob-transient-calls/)
 4. Orcasound [blog posts tagged analyzing Bigg's bouts](https://www.orcasound.net/category/biggs/)
